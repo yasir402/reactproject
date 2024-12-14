@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "superadmin",
+      "fullname": "md yasir",
+      "email": "yasir1@gmail.com",
+      "password": "Poyoil123"
+    },
+    {
+      "id": "cyber123",
+      "fullname": "jhgj",
+      "email": "yasirasdgasdagsdagsdag@gmail.com",
+      "password": "Poyoil1234"
+    },
+    {
+      "id": "Poyoil12345!",
+      "fullname": "fsdsdfgfgdg",
+      "email": "yasirpubglover12@gmail.com",
+      "password": "Poyoil12345!"
+    }
+  ]
+}
